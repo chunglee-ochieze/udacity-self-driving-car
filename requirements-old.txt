@@ -8,3 +8,4 @@ Pillow==6.0.0
 eventlet==0.24.1
 flask==1.0.2
 python-socketio==4.0.1
+h11>=0.16.0 # not directly required, pinned by Snyk to avoid a vulnerability
